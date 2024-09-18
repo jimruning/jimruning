@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @jimruning
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+大家可以叫我：Jim先生
+坐标：  杭州
+专业职业：  medi 医疗数据统计师
+兴趣爱好：  捞鱼
+项目技能：  biostatistics  for trial
+组队情况：未
+本课程学习： 有一点点了解
+本期活动目标： 继续学习 
+<!---
+jimruning/jimruning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
