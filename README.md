@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-大家可以叫我：Jim先生
+大家可以叫我：Jim
 坐标：  杭州
-专业职业：   医疗数据统计师
+专业职业：   数据统计师
 兴趣爱好：  
 项目技能：  trial biostatistician
 组队情况：未
